@@ -1,6 +1,6 @@
 import sys
 
-#Pre-Defined
+#Pre-Defined / Sudoku Problem
 
 R1=[
     [' ',' ',' ',' ','8',' ',' ','4',' '],
@@ -14,7 +14,7 @@ R1=[
     ['4','9','5',' ','6',' ','2','8',' ']
     ]
 
-#Main
+#Main / Problem Solving
 
 def solve():
     for i in range(9):
